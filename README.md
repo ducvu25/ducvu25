@@ -3,13 +3,16 @@
 # 👋 Hi there 
 
 - 🔭 I’m VU TRUNG DUC
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Sinh viên trường Đại học Công Nghệ đại học Quốc Gia Hà Nội
+- 5 tiêu chí của tôi:
+  + Uy tín
+  + Chất lượng
+  + Nhiệt tình
+  + Nhanh chóng
+  + Lâu dài
+- Mình nhận hỗ trợ các môn liên quan đến lập trình C/C++/C#, SQL, Unity2D, và các môn đại cương khác
+- Mọi liên hệ qua fb hoặc số điện thoại: 0342041436
+- Rất vui và mong chờ có thể làm việc với bạn!
 
 # 🛠 Languages and Tools
 
