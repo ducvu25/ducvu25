@@ -10,7 +10,7 @@
   + Nhiệt tình
   + Nhanh chóng
   + Lâu dài
-- Mình nhận hỗ trợ các môn liên quan đến lập trình C/C++/C#, SQL, Unity2D, và các môn đại cương khác
+- Mình nhận hỗ trợ các môn liên quan đến lập trình C/C++/C#, SQL, Unity, và các môn đại cương khác
 - Mọi liên hệ qua fb hoặc số điện thoại: 0342041436
 - Rất vui và mong chờ có thể làm việc với bạn!
 
