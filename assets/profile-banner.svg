@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Vu Trung Duc</title>
+  <desc id="desc">Unity, C sharp and C plus plus. Building games. Sharing knowledge.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1221"/><stop offset="1" stop-color="#14283A"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#7DD3FC"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9ABAD0" stroke-opacity=".065"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1190" cy="35" r="240" fill="#14B8A6" opacity=".045"/>
+  <circle cx="1190" cy="35" r="170" fill="none" stroke="#5EEAD4" stroke-opacity=".12"/>
+  <circle cx="1190" cy="35" r="205" fill="none" stroke="#5EEAD4" stroke-opacity=".07"/>
+  <rect x="64" y="66" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="112" y="75" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3" fill="#85ADA9">DUCVU25 / DEVELOPER</text>
+  <text x="60" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#F1F5F9">VU TRUNG DUC</text>
+  <text x="64" y="204" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#BCD0DD">Building games. Sharing knowledge.</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+    <rect x="64" y="250" width="88" height="34" rx="17" fill="#5EEAD4" fill-opacity=".10" stroke="#5EEAD4" stroke-opacity=".30"/><text x="108" y="272" fill="#99F6E4">UNITY</text>
+    <rect x="164" y="250" width="66" height="34" rx="17" fill="#7DD3FC" fill-opacity=".08" stroke="#7DD3FC" stroke-opacity=".25"/><text x="197" y="272" fill="#BAE6FD">C#</text>
+    <rect x="242" y="250" width="72" height="34" rx="17" fill="#7DD3FC" fill-opacity=".08" stroke="#7DD3FC" stroke-opacity=".25"/><text x="278" y="272" fill="#BAE6FD">C++</text>
+  </g>
+  <g transform="translate(960 94)">
+    <rect width="188" height="172" rx="22" fill="#0B1728" fill-opacity=".75" stroke="#456174" stroke-opacity=".6"/>
+    <path d="M65 56L34 86L65 116M123 56L154 86L123 116M107 42L82 130" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="162" cy="25" r="4" fill="#5EEAD4"/>
+  </g>
+</svg>
